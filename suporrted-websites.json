@@ -1,4 +1,6 @@
 {
+  costco: 'costco.com',
+  walmart: 'walmart.com',
   target: 'target.com',
   yamibuy: 'yamibuy.com',
   homedepot: 'homedepot.com',
