@@ -9,4 +9,11 @@ buy.com
 apple.com
 directgardening.com
 admedia.com
+perfumeemporium.com
+jalbum.net
+jeanswelt.de
+howtodjfast
+zanox
+24-7pressrelease.com 
+sc24.com
 ```
