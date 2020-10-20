@@ -17,5 +17,6 @@ zanox
 24-7pressrelease.com 
 sc24.com
 duffy-fon.de
-http://jdwilliams.co.uk/
+jdwilliams.co.uk
+columbia.com
 ```
