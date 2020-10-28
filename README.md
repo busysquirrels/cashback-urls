@@ -19,4 +19,5 @@ sc24.com
 duffy-fon.de
 jdwilliams.co.uk
 columbia.com
+amazon.com
 ```
